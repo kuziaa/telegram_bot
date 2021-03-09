@@ -5,4 +5,3 @@ lingua = LinguaLeo(login='axmarun@mail.ru', password='antonhmarun')
 lingua.logining()
 lingua.get_full_vocabulary()
 
-# xxxxxxxxxxxxxxxxxxxxxxxxxx
